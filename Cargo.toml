@@ -1,6 +1,12 @@
 [package]
 name = "tavlars"
 version = "0.1.0"
+authors = ["Adam Sidorovich https://github.com/sidorovichva"]
 edition = "2021"
+description = "Tabular data processing for humans"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/sidorovichva/tavlars"
+readme = "README.md"
+keywords = ["data", "data-processing", "tabular-data"]
 
 [dependencies]
