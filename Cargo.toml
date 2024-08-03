@@ -1,6 +1,6 @@
 [package]
 name = "tavlars"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Adam Sidorovich https://github.com/sidorovichva"]
 edition = "2021"
 description = "Tabular data processing for humans"
